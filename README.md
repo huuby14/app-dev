@@ -52,4 +52,4 @@ You can watch **Manifest** on:
 * [Netflix] (https://www.netflix.com/) (Globally, the streaming home for the final season)
 
 **Image**
-https://m.media-amazon.com/images/M/MV5BYmUzMmFlOTgtNDg0OS00NGJmLWIwZDgtMTc4NDdjZjM5NjQ2XkEyXkFqcGc@._V1_.jpg
+![Manifest]([image.jpg](https://m.media-amazon.com/images/M/MV5BYmUzMmFlOTgtNDg0OS00NGJmLWIwZDgtMTc4NDdjZjM5NjQ2XkEyXkFqcGc@._V1_.jpg))
